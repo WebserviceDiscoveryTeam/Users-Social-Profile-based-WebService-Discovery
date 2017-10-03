@@ -1,0 +1,61 @@
+Web Service Name,Description,Endpoint,Category
+GlobalWeather, ,http://www.webservicex.com/globalweather.asmx,Weather
+null, ,https://graphical.weather.gov:443/xml/SOAP_server/ndfdXMLserver.php,null
+WeatherForecast, ,http://www.webservicex.net/WeatherForecast.asmx,Weather
+USWeather, ,http://www.webservicex.net/usweather.asmx,Weather
+SunSetRiseService, ,http://www.webservicex.net/sunsetriseservice.asmx,Weather
+weather, ,http://weather.shellware.com/weather.asmx,Weather
+MCDSGlobal, ,http://profile2.mcdonalds.com/mcdsglobal.asmx,Restaurant
+HotelBookingService, ,http://live.viajesurbis.com/serveis/caval/20091127/soap/HotelBookingService,Travel
+MediCareSupplier, ,http://www.webservicex.net/medicareSupplier.asmx,Medicare
+HCPCS, ,http://www.webservicex.net/hcpcs.asmx,Medicare
+ICD9ToICD10, ,http://www.webservicex.net/icd9toicd10.asmx,Medicare
+AccelerationUnit, ,http://www.webservicex.net/ConvertAcceleration.asmx,Converters
+PressureUnit, ,http://www.webservicex.net/CovertPressure.asmx,Converters
+DensityUnit, ,http://www.webservicex.net/ConvertDensity.asmx,Converters
+PowerUnit, ,http://www.webservicex.net/ConverPower.asmx,Converters
+AngleUnit, ,http://www.webservicex.net/ConvertAngle.asmx,Converters
+TorqueUnit, ,http://www.webservicex.net/ConvertTorque.asmx,Converters
+MetricWeightUnit, ,http://www.webservicex.net/convertMetricWeight.asmx,Converters
+VolumeUnit, ,http://www.webservicex.net/convertVolume.asmx,Converters
+ConvertTemperature, ,http://www.webservicex.net/ConvertTemperature.asmx,Converters
+FrequencyUnit, ,http://www.webservicex.net/convertFrequency.asmx,Converters
+AstronomicalUnit, ,http://www.webservicex.net/Astronomical.asmx,Converters
+ForceUnit, ,http://www.webservicex.net/ConvertForec.asmx,Converters
+EnergyUnit, ,http://www.webservicex.net/ConvertEnergy.asmx,Converters
+AreaUnit, ,http://www.webservicex.net/ConvertArea.asmx,Converters
+CookingUnit, ,http://www.webservicex.net/ConvertCooking.asmx,Converters
+ComputerUnit, ,http://www.webservicex.net/ConvertComputer.asmx,Converters
+ConvertWeights, ,http://www.webservicex.net/ConvertWeight.asmx,Converters
+ConvertSpeeds, ,http://www.webservicex.net/ConvertSpeed.asmx,Converters
+lengthUnit, ,http://www.webservicex.net/length.asmx,Converters
+GeocodeService, ,http://dev.virtualearth.net/webservices/v1/geocodeservice/GeocodeService.svc,Virtual Earth
+ImageryService, ,http://dev.virtualearth.net/webservices/v1/imageryservice/imageryservice.svc,Virtual Earth
+RouteService, ,http://dev.virtualearth.net/webservices/v1/routeservice/routeservice.svc,Virtual Earth
+SearchService, ,http://dev.virtualearth.net/webservices/v1/searchservice/searchservice.svc,Virtual Earth
+USAddressVerification, ,http://www.webservicex.net/usaddressverification.asmx,Standard and Lookup Data
+ISBN, ,http://www.webservicex.net/isbn.asmx,Standard and Lookup Data
+EMBLNucleotideSequenceWebService, ,http://www.webservicex.net/EMBLNucleotideSequenceWebService.asmx,Standard and Lookup Data
+UKLocation, ,http://www.webservicex.net/uklocation.asmx,Standard and Lookup Data
+AustralianPostCode, ,http://www.webservicex.net/AustralianPostCode.asmx,Standard and Lookup Data
+USZip, ,http://www.webservicex.net/uszip.asmx,Standard and Lookup Data
+airport, ,http://www.webservicex.net/airport.asmx,Standard and Lookup Data
+NAICS, ,http://www.webservicex.net/NAICS.asmx,Standard and Lookup Data
+country, ,http://www.webservicex.net/country.asmx,Standard and Lookup Data
+BEP, ,http://www.webservicex.net/bep.asmx,Business
+CashFlowPresentValues, ,http://www.webservicex.net/cashflow.asmx,Business
+FinanceService, ,http://www.webservicex.net/FinanceService.asmx,Business
+CCChecker, ,http://www.webservicex.net/CreditCard.asmx,Business
+Mortgage, ,http://www.webservicex.net/mortgage.asmx,Business
+BasicOptionPricing, ,http://www.webservicex.net/pricing.asmx,Business
+Statistics, ,http://www.webservicex.net/Statistics.asmx,Business
+FedACH, ,http://www.webservicex.net/FedACH.asmx,Business
+MortgageIndex, ,http://www.webservicex.net/MortgageIndex.asmx,Business
+LondonGoldAndSilverFix, ,http://www.webservicex.net/LondonGoldFix.asmx,Business
+OFACSDN, ,http://www.webservicex.net/OFACSDN.asmx,Business
+FedACH, ,http://www.webservicex.net/FedACH.asmx,Business
+FedWire, ,http://www.webservicex.net/FedWire.asmx,Business
+GenericUNSPSC, ,http://www.webservicex.net/GenericUNSPSC.asmx,Business
+GenericNAICS, ,http://www.webservicex.net/GenericNAICS.asmx,Business
+DelayedStockQuote, ,http://ws.cdyne.com/delayedstockquote/delayedstockquote.asmx,Business
+CalculationService, ,http://www.fitnesswizard.com/Services/CalculationService.asmx,Fitness
